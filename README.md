@@ -1,2 +1,3 @@
 # BlackJackJava
-I made this black jack game in like Sept 2024
+I made this black jack game in Sept 2024
+This is written in java
